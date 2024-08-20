@@ -1,0 +1,19 @@
+Design parking lot.
+
+1. The parking lot should have multiple floors where customers can park
+    their cars.
+2. The parking lot should have multiple entry and exit points.
+3. Customers can collect a parking ticket from the entry points and can pay
+    the parking fee at the exit points on their way out.
+4. Customers can pay via both cash and credit cards.
+5. The system should not allow more vehicles than the maximum capacity
+    of the parking lot. If the parking is full, the system should be able to show
+    a message on the parking display board on the.
+6. The system should support multiple types of parking spots such as General and
+    Handicapped.
+7. The Parking lot should have some parking spots specified for electric
+    cars. These spots should have an electric panel through which customers
+    can pay and charge their vehicles ---- good to have
+8. The system should support parking for different types of vehicles like 2 wheeler, 4 wheeler.
+9. Each parking floor should have a display board showing any free parking
+    spot.
