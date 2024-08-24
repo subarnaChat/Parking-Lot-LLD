@@ -8,7 +8,7 @@ Design parking lot.
 4. Customers can pay via both cash and credit cards.
 5. The system should not allow more vehicles than the maximum capacity
     of the parking lot. If the parking is full, the system should be able to show
-    a message on the parking display board on the.
+    a message on the parking display board.
 6. The system should support multiple types of parking spots such as General and
     Handicapped.
 7. The Parking lot should have some parking spots specified for electric
